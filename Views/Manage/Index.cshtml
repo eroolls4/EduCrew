@@ -25,12 +25,12 @@
                 }
                 ]
             </dd>
-           
-           
+
+
 
             <dt>Bio:</dt>
             <dd>
-                
+
                 @if (Model.HasBio && Model.HasDesc)
                 {
                     <p>@Model.Bio</p>
@@ -41,12 +41,12 @@
                 {
                     @Html.ActionLink("Create", "SetBio")
                 }
-                
+
             </dd>
 
             <dt>Profile Image:</dt>
             <dd>
-                
+
                 @if (Model.HasProfilePhoto)
                 {
                     <img src="@Model.ProfileImage" alt="Profile Image" style="max-width: 200px; max-height: 200px;" />
@@ -56,10 +56,46 @@
                 {
                     @Html.ActionLink("Create", "SetProfileImage")
                 }
-                
+
             </dd>
 
 
         </dl>
+
+
+        <h4>Your Posts</h4>
+        <hr />
+
+        @if (Model.Posts != null && Model.Posts.Any())
+        {
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                      
+                        <th>Title</th>
+                        <th>Category</th>
+                        <th>Date Created</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var post in Model.Posts)
+                    {
+                        <tr>
+                            <td>@post.Title</td>
+                            <td>@post.Category.Name</td>
+                            <td>@post.DatePosted.ToString("yyyy-MM-dd")</td>
+                            <td>@Html.ActionLink("go to details", "Details", "Posts", new { id = post.PostId }, new { @class = "nav-link" })</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <p><strong>Total Number of Posts in the Forum: </strong>@Model.TotalPostsInForum</p>
+        }
+        else
+        {
+            <p>You have not created any posts yet.</p>
+        }
     </div>
 </main>

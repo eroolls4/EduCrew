@@ -1,0 +1,45 @@
+﻿@model EduCrew.Models.Post
+
+@using Microsoft.AspNet.Identity;
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-8 col-md-10">
+            <!-- Post Detail Card -->
+            <div class="card shadow-sm border-0">
+                <div class="card-body">
+                    <!-- Post Title -->
+                    <h2 class="card-title text-primary">@Model.Title</h2>
+
+                    <!-- Post Metadata -->
+                    <p class="text-muted mb-4">
+                        <img src="@Model.User.ProfileImage" alt="Profile" class="img-thumbnail rounded-circle" style="width: 40px; height: 40px;">
+                        Posted by <strong>@Model.User.UserName</strong> on @Model.DatePosted.ToString("MMMM dd, yyyy")
+                        <span class="ml-3">|</span>
+                        Category: <span class="badge badge-info bg-black">@Model.Category.Name</span>
+                    </p>
+
+                    <hr />
+
+                    <!-- Post Content -->
+                    <div class="post-content">
+                        <p class="lead">@Model.Content</p>
+                    </div>
+
+                    <hr />
+
+                    <!-- Action Buttons -->
+                    <div class="text-right">
+                     
+                        @if (Model.UserId == HttpContext.Current.User.Identity.GetUserId())
+                        {
+                            <a href="@Url.Action("Edit", new { id = Model.PostId })" class="btn btn-sm btn-secondary">Edit</a>
+
+                        }
+
+                        <a href="@Url.Action("Index", "Posts")" class="btn btn-outline-primary btn-sm">Back to List</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

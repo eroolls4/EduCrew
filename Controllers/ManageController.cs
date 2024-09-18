@@ -7,6 +7,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using EduCrew.Models;
+using System.Data.Entity;
 
 namespace EduCrew.Controllers
 {
@@ -15,6 +16,7 @@ namespace EduCrew.Controllers
     {
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
+        private ApplicationDbContext db = new ApplicationDbContext();
 
         public ManageController()
         {
@@ -64,6 +66,15 @@ namespace EduCrew.Controllers
                 : "";
 
             var userId = User.Identity.GetUserId();
+            var postsCreated = db.Posts
+         .Where(p => p.UserId == userId)
+         .Include(p => p.Category)
+         .ToList();
+
+        
+            var totalPostsInForum = postsCreated.Count();
+
+
             var model = new IndexViewModel
             {
                 UserName = UserManager.FindById(userId).UserName,
@@ -74,7 +85,9 @@ namespace EduCrew.Controllers
                 Logins = await UserManager.GetLoginsAsync(userId),
                 BrowserRemembered = await AuthenticationManager.TwoFactorBrowserRememberedAsync(userId),
                 Bio = UserManager.FindById(userId).Bio,  // Assuming you have a way to retrieve this from the database or the user object
-                ProfileImage = UserManager.FindById(userId).ProfileImage // Retrieve this from the user object or database
+                ProfileImage = UserManager.FindById(userId).ProfileImage,
+                Posts = postsCreated,
+                TotalPostsInForum = totalPostsInForum
             };
 
             return View(model);

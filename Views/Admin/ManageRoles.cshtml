@@ -1,0 +1,78 @@
+﻿@model IEnumerable<EduCrew.Models.UserRolesViewModel>
+
+@{
+    ViewBag.Title = "Manage Roles";
+}
+
+<main aria-labelledby="title">
+    <h2 id="title">@ViewBag.Title</h2>
+    <div class="row">
+        <div class="col-md-12">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Username</th>
+                        <th>Roles</th>
+                        <th>Assign New Role</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var userRole in Model)
+                    {
+                        <tr>
+                            <td>@userRole.User.UserName</td>
+                            <td>@string.Join(", ", userRole.Roles)</td>
+                            <td>
+                                <section>
+                                    @using (Html.BeginForm("AssignRole", "Admin", FormMethod.Post, new { role = "form" }))
+                                    {
+                                        @Html.AntiForgeryToken()
+
+                                        <input type="hidden" name="userId" value="@userRole.User.Id" />
+
+                                        <div class="form-group row">
+                                            <label for="roleName" class="col-md-2 col-form-label">Role</label>
+                                            <div class="col-md-6">
+                                                <select name="roleName" class="form-control" id="roleName">
+                                                    @foreach (var role in ViewBag.Roles)
+                                                    {
+                                                        <option value="@role.Name">@role.Name</option>
+                                                    }
+                                                </select>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <input type="submit" value="Assign Role" class="btn btn-primary" />
+                                            </div>
+                                        </div>
+                                    }
+                                </section>
+                            </td>
+                            <td>
+                                @foreach (var role in userRole.Roles)
+                                {
+                                    <section>
+                                        @using (Html.BeginForm("RemoveRole", "Admin", FormMethod.Post, new { role = "form" }))
+                                        {
+                                            @Html.AntiForgeryToken()
+
+                                            <input type="hidden" name="userId" value="@userRole.User.Id" />
+                                            <input type="hidden" name="roleName" value="@role" />
+
+                                            <div class="form-group">
+                                                <input type="submit" value="Remove @role" class="btn btn-danger" />
+                                            </div>
+                                        }
+                                    </section>
+                                }
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</main>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

@@ -20,6 +20,12 @@ namespace EduCrew.Models
 
         public string UserName { get; set; }
 
+    
+        public List<Post> Posts { get; set; }
+
+        // Total number of posts in the forum
+        public int TotalPostsInForum { get; set; }
+
         // Check if Bio and ProfileImage are available
         public bool HasBio => !string.IsNullOrWhiteSpace(Bio);
         public bool HasDesc => !string.IsNullOrWhiteSpace(Description);

@@ -1,70 +1,212 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\",
+  "WorkspaceRootPath": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\educrew\\views\\manage\\setbio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\manage\\setbio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\educrew\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\educrew\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\educrew\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\educrew\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\educrew\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\educrew\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\educrew\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\educrew\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\gitrepo\\educrew\\controllers\\sweetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:controllers\\sweetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\educrew\\views\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\gitrepo\\educrew\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_EduCrew_20240917105715/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\views\\posts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\posts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\views\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\gitrepo\\educrew\\views\\admin\\adminpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\admin\\adminpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\educrew\\views\\manage\\setprofileimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\scripts\\datatables.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:scripts\\datatables.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\gitrepo\\educrew\\models\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:models\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\gitrepo\\educrew\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\gitrepo\\educrew\\views\\sweet\\alert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\sweet\\alert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\controllers\\api\\postapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:controllers\\api\\postapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\gitrepo\\educrew\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\gitrepo\\educrew\\scripts\\bootbox.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:scripts\\bootbox.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eroll Saqipi\\AppData\\Local\\Temp\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\views\\posts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\posts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\models\\educrewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:models\\educrewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\migrations\\202409181305092_addedmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:migrations\\202409181305092_addedmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\views\\admin\\manageroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\admin\\manageroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\models\\userrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:models\\userrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\views\\manage\\setbio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\manage\\setbio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\views\\manage\\setprofileimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\manage\\setprofileimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\educrew\\views\\manage\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\views\\manage\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\manage\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\educrew\\views\\manage\\setpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\views\\manage\\setpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\manage\\setpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_EduCrew_20240917105715/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
@@ -73,34 +215,7 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_EduCrew_20240917105715/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_EduCrew_20240917105715/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\models\\educrewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:models\\educrewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -110,8 +225,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 245,
-          "SelectedChildIndex": 7,
+          "DockedHeight": 287,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -119,63 +234,128 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T22:53:46.846Z",
+              "DocumentIndex": 2,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "Controllers\\PostsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:28:49.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T22:47:15.412Z",
+              "DocumentIndex": 11,
+              "Title": "RoleInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\RoleInitializer.cs",
+              "RelativeDocumentMoniker": "RoleInitializer.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\RoleInitializer.cs",
+              "RelativeToolTip": "RoleInitializer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:38:23.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:37:05.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "Controllers\\BaseController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAyAAAA",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAIcBAAAAAAAAAAAawJoBAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T22:44:42.979Z",
+              "WhenOpened": "2024-09-17T21:17:18.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Posts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Posts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Posts\\Index.cshtml",
+              "RelativeToolTip": "Views\\Posts\\Index.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACEAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T22:42:34.4Z",
+              "WhenOpened": "2024-09-18T15:35:04.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAcwE8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:16:18.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Models\\Post.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Models\\Post.cs",
+              "RelativeToolTip": "Models\\Post.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:02:34.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SweetController.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Controllers\\SweetController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SweetController.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Controllers\\SweetController.cs",
+              "RelativeToolTip": "Controllers\\SweetController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:17:21.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowFkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:48:37.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -184,170 +364,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T22:36:36.76Z",
+              "DocumentIndex": 10,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:44:42.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SetBio.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Views\\Manage\\SetBio.cshtml",
-              "RelativeDocumentMoniker": "Views\\Manage\\SetBio.cshtml",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Views\\Manage\\SetBio.cshtml",
-              "RelativeToolTip": "Views\\Manage\\SetBio.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T22:20:02.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SetPassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Views\\Manage\\SetPassword.cshtml",
-              "RelativeDocumentMoniker": "Views\\Manage\\SetPassword.cshtml",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Views\\Manage\\SetPassword.cshtml",
-              "RelativeToolTip": "Views\\Manage\\SetPassword.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T22:15:31.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ManageController.cs",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Controllers\\ManageController.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Controllers\\ManageController.cs",
               "RelativeDocumentMoniker": "Controllers\\ManageController.cs",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Controllers\\ManageController.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Controllers\\ManageController.cs",
               "RelativeToolTip": "Controllers\\ManageController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAABMAAAA",
+              "ViewState": "AQIAAJIBAAAAAAAAAAAuwEUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T22:07:10.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Views\\Manage\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Manage\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Views\\Manage\\Index.cshtml",
-              "RelativeToolTip": "Views\\Manage\\Index.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAArwCgAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T22:00:14.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAqwJUAAAAYAAAA",
+              "DocumentIndex": 13,
+              "Title": "Startup.Auth.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\App_Start\\Startup.Auth.cs",
+              "RelativeDocumentMoniker": "App_Start\\Startup.Auth.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\App_Start\\Startup.Auth.cs",
+              "RelativeToolTip": "App_Start\\Startup.Auth.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswEIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T21:17:18.159Z",
+              "WhenOpened": "2024-09-17T20:58:28.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "dbo.AspNetUserRoles [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_EduCrew_20240917105715/True/SqlTable/dbo.AspNetUserRoles.sql",
-              "ToolTip": "dbo.AspNetUserRoles [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-09-17T21:55:28.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ManageViewModels.cs",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Models\\ManageViewModels.cs",
-              "RelativeDocumentMoniker": "Models\\ManageViewModels.cs",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Models\\ManageViewModels.cs",
-              "RelativeToolTip": "Models\\ManageViewModels.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAA+AAAA",
+              "DocumentIndex": 14,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T21:13:55.059Z",
+              "WhenOpened": "2024-09-17T20:57:52.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\App_Start\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\IdentityConfig.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\App_Start\\IdentityConfig.cs",
+              "RelativeToolTip": "App_Start\\IdentityConfig.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAawGcAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:12:10.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "IdentityModels.cs",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Models\\IdentityModels.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Models\\IdentityModels.cs",
               "RelativeDocumentMoniker": "Models\\IdentityModels.cs",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Models\\IdentityModels.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Models\\IdentityModels.cs",
               "RelativeToolTip": "Models\\IdentityModels.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T20:58:44.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "View.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Views\\Manage\\View.cshtml",
-              "RelativeDocumentMoniker": "Views\\Manage\\View.cshtml",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Views\\Manage\\View.cshtml",
-              "RelativeToolTip": "Views\\Manage\\View.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T22:15:48.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SetProfileImage.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Views\\Manage\\SetProfileImage.cshtml",
-              "RelativeDocumentMoniker": "Views\\Manage\\SetProfileImage.cshtml",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Views\\Manage\\SetProfileImage.cshtml",
-              "RelativeToolTip": "Views\\Manage\\SetProfileImage.cshtml",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAiwB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T22:16:13.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "dbo.AspNetRoles [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_EduCrew_20240917105715/True/SqlTable/dbo.AspNetRoles.sql",
-              "ToolTip": "dbo.AspNetRoles [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-09-17T21:56:31.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "RoleInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\RoleInitializer.cs",
-              "RelativeDocumentMoniker": "RoleInitializer.cs",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\RoleInitializer.cs",
-              "RelativeToolTip": "RoleInitializer.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwCMAAAAAAAAA",
+              "DocumentIndex": 19,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "Models\\AccountViewModels.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "Models\\AccountViewModels.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAmwDQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T21:38:23.65Z",
+              "WhenOpened": "2024-09-17T21:02:25.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "dbo.AspNetUsers [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_EduCrew_20240917105715/True/SqlTable/dbo.AspNetUsers.sql",
               "ToolTip": "dbo.AspNetUsers [Data]",
@@ -357,48 +465,322 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Global.asax.cs",
-              "RelativeDocumentMoniker": "Global.asax.cs",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Global.asax.cs",
-              "RelativeToolTip": "Global.asax.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T21:37:05.329Z"
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Manage\\Index.cshtml",
+              "RelativeToolTip": "Views\\Manage\\Index.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T22:00:14.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T22:47:15.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T22:42:34.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T12:25:13.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T22:36:36.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Posts\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Posts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Posts\\Details.cshtml",
+              "RelativeToolTip": "Views\\Posts\\Details.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T16:13:27.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Startup.cs",
-              "RelativeDocumentMoniker": "Startup.cs",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Startup.cs",
-              "RelativeToolTip": "Startup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Title": "ManageViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Models\\ManageViewModels.cs",
+              "RelativeDocumentMoniker": "Models\\ManageViewModels.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Models\\ManageViewModels.cs",
+              "RelativeToolTip": "Models\\ManageViewModels.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T21:40:14.991Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Views\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBkAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T21:09:03.853Z",
+              "WhenOpened": "2024-09-17T21:13:55.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
+              "Title": "AdminPanel.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Admin\\AdminPanel.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AdminPanel.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Admin\\AdminPanel.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AdminPanel.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T20:46:22.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Posts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Posts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Posts\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Posts\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T20:07:09.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "dataTables.js",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Scripts\\dataTables.js",
+              "RelativeDocumentMoniker": "Scripts\\dataTables.js",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Scripts\\dataTables.js",
+              "RelativeToolTip": "Scripts\\dataTables.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAN0FAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-18T17:09:06.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Models\\PostDTO.cs",
+              "RelativeDocumentMoniker": "Models\\PostDTO.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Models\\PostDTO.cs",
+              "RelativeToolTip": "Models\\PostDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:37:09.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:12:16.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:03:03.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:40:14.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:12:05.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "bootbox.js",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Scripts\\bootbox.js",
+              "RelativeDocumentMoniker": "Scripts\\bootbox.js",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Scripts\\bootbox.js",
+              "RelativeToolTip": "Scripts\\bootbox.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-18T18:55:32.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-18T13:14:40.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAALYBAAAAAAAAAAAuwC4CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T16:36:16.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Alert.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Sweet\\Alert.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sweet\\Alert.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Sweet\\Alert.cshtml",
+              "RelativeToolTip": "Views\\Sweet\\Alert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T20:17:33.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T19:15:34.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PostAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Controllers\\API\\PostAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\API\\PostAPIController.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Controllers\\API\\PostAPIController.cs",
+              "RelativeToolTip": "Controllers\\API\\PostAPIController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwCEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:46:14.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\AppData\\Local\\Temp\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\readme.txt",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\AppData\\Local\\Temp\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-18T16:46:14.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Posts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Posts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Posts\\Create.cshtml",
+              "RelativeToolTip": "Views\\Posts\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T15:30:12.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T15:37:12.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
               "Title": "EduCrewUser.cs",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Models\\EduCrewUser.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Models\\EduCrewUser.cs",
               "RelativeDocumentMoniker": "Models\\EduCrewUser.cs",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Models\\EduCrewUser.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Models\\EduCrewUser.cs",
               "RelativeToolTip": "Models\\EduCrewUser.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAuwA4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -406,44 +788,149 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AccountViewModels.cs",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Models\\AccountViewModels.cs",
-              "RelativeDocumentMoniker": "Models\\AccountViewModels.cs",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\Models\\AccountViewModels.cs",
-              "RelativeToolTip": "Models\\AccountViewModels.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAjwEgAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T21:02:25.257Z"
+              "DocumentIndex": 43,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-18T13:11:52.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "FilterConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\App_Start\\FilterConfig.cs",
-              "RelativeDocumentMoniker": "App_Start\\FilterConfig.cs",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\App_Start\\FilterConfig.cs",
-              "RelativeToolTip": "App_Start\\FilterConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "DocumentIndex": 44,
+              "Title": "202409181305092_addedModels.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Migrations\\202409181305092_addedModels.cs",
+              "RelativeDocumentMoniker": "Migrations\\202409181305092_addedModels.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Migrations\\202409181305092_addedModels.cs",
+              "RelativeToolTip": "Migrations\\202409181305092_addedModels.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T20:57:52.882Z"
+              "WhenOpened": "2024-09-18T13:05:13.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Startup.Auth.cs",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\App_Start\\Startup.Auth.cs",
-              "RelativeDocumentMoniker": "App_Start\\Startup.Auth.cs",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\EduCrew\\App_Start\\Startup.Auth.cs",
-              "RelativeToolTip": "App_Start\\Startup.Auth.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAlwEEAAAAIAAAA",
+              "DocumentIndex": 47,
+              "Title": "SetBio.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Manage\\SetBio.cshtml",
+              "RelativeDocumentMoniker": "Views\\Manage\\SetBio.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Manage\\SetBio.cshtml",
+              "RelativeToolTip": "Views\\Manage\\SetBio.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T22:20:02.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ManageRoles.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Admin\\ManageRoles.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ManageRoles.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Admin\\ManageRoles.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ManageRoles.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwEIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T12:18:33.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserRolesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Models\\UserRolesViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserRolesViewModel.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Models\\UserRolesViewModel.cs",
+              "RelativeToolTip": "Models\\UserRolesViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T20:58:28.188Z"
+              "WhenOpened": "2024-09-18T12:39:33.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T22:53:46.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Manage\\SetPassword.cshtml",
+              "RelativeDocumentMoniker": "Views\\Manage\\SetPassword.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Manage\\SetPassword.cshtml",
+              "RelativeToolTip": "Views\\Manage\\SetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T22:15:31.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "dbo.AspNetUserRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_EduCrew_20240917105715/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "dbo.AspNetUserRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-17T21:55:28.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Manage\\View.cshtml",
+              "RelativeDocumentMoniker": "Views\\Manage\\View.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Manage\\View.cshtml",
+              "RelativeToolTip": "Views\\Manage\\View.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T22:15:48.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SetProfileImage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Manage\\SetProfileImage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Manage\\SetProfileImage.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Manage\\SetProfileImage.cshtml",
+              "RelativeToolTip": "Views\\Manage\\SetProfileImage.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T22:16:13.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "dbo.AspNetRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_EduCrew_20240917105715/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "dbo.AspNetRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-17T21:56:31.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T21:09:03.853Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 155,
+          "DockedHeight": 113,
           "SelectedChildIndex": -1,
           "Children": [
             {

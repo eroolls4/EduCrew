@@ -1,4 +1,4 @@
-﻿@using Microsoft.AspNet.Identity
+﻿﻿@using Microsoft.AspNet.Identity
 @using Microsoft.AspNet.Identity.Owin
 
 <!DOCTYPE html>
@@ -7,19 +7,30 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewBag.Title - My ASP.NET Application</title>
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css" />
+
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
 
 </head>
 <body>
-    @if (User.Identity.IsAuthenticated)
-    {
-        var userId = User.Identity.GetUserId();
-        var userManager = HttpContext.Current.GetOwinContext().GetUserManager<ApplicationUserManager>();
-        var user = userManager.FindById(userId);
+    
 
-        ViewBag.ProfileImage = user?.ProfileImage;
+    @{ 
+        bool isAdmin = false;
+        if (User.Identity.IsAuthenticated)
+        {
+            var userId = User.Identity.GetUserId();
+            var userManager = HttpContext.Current.GetOwinContext().GetUserManager<ApplicationUserManager>();
+            var user = userManager.FindById(userId);
+
+            ViewBag.ProfileImage = user?.ProfileImage;
+            isAdmin = userManager.IsInRole(userId, "Admin");
+        }
     }
+
+
 
 
     <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark">
@@ -32,8 +43,20 @@
             <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
                 <ul class="navbar-nav flex-grow-1">
                     <li>@Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "nav-link" })</li>
-                    <li>@Html.ActionLink("About", "About", "Home", new { area = "" }, new { @class = "nav-link" })</li>
-                    <li>@Html.ActionLink("Contact", "Contact", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    @{
+                        if (isAdmin)
+                        {
+                            <li>@Html.ActionLink("MANAGE ROLES", "ManageRoles", "Admin", new { area = "" }, new { @class = "nav-link" })</li>
+                            <li>@Html.ActionLink("CATEGORIES", "Index", "Categories", new { area = "" }, new { @class = "nav-link" })</li>
+                            <li>@Html.ActionLink("ADMIN PANEL", "AdminPanel", "Admin", new { area = "" }, new { @class = "nav-link" })</li>
+                        }
+                    }
+
+
+                    <li>@Html.ActionLink("POSTS", "Index", "Posts", new { area = "" }, new { @class = "nav-link" })</li>
+
+
+
                 </ul>
 
 
