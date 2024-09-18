@@ -1,0 +1,65 @@
+﻿@model EduCrew.Models.IndexViewModel
+@{
+    ViewBag.Title = "Manage";
+}
+
+<main aria-labelledby="title">
+    <h3>hi,Welcome back @Model.UserName!!!</h3>
+   
+
+    <p class="text-success">@ViewBag.StatusMessage</p>
+    <div>
+        <h4>Change your account settings</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>Password:</dt>
+            <dd>
+                [
+                @if (Model.HasPassword)
+                {
+                    @Html.ActionLink("Change your password", "ChangePassword")
+                }
+                else
+                {
+                    @Html.ActionLink("Create", "SetPassword")
+                }
+                ]
+            </dd>
+           
+           
+
+            <dt>Bio:</dt>
+            <dd>
+                
+                @if (Model.HasBio && Model.HasDesc)
+                {
+                    <p>@Model.Bio</p>
+                    <p>@Model.Description</p>
+                    @Html.ActionLink("Change your bio", "SetBio")
+                }
+                else
+                {
+                    @Html.ActionLink("Create", "SetBio")
+                }
+                
+            </dd>
+
+            <dt>Profile Image:</dt>
+            <dd>
+                
+                @if (Model.HasProfilePhoto)
+                {
+                    <img src="@Model.ProfileImage" alt="Profile Image" style="max-width: 200px; max-height: 200px;" />
+                    @Html.ActionLink("Change your profile image", "SetProfileImage")
+                }
+                else
+                {
+                    @Html.ActionLink("Create", "SetProfileImage")
+                }
+                
+            </dd>
+
+
+        </dl>
+    </div>
+</main>
