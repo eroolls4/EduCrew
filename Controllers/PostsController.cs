@@ -1,5 +1,6 @@
 ﻿using EduCrew.Models;
 using Microsoft.AspNet.Identity;
+using PagedList;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -18,10 +19,52 @@ namespace EduCrew.Controllers
         private ApplicationDbContext db = new ApplicationDbContext();
 
         // GET: Post
-        public ActionResult Index()
+        public ActionResult Index(string sortOrder, string currentFilter, string searchString, int? page)
         {
-            var posts = db.Posts.Include(p => p.Category).Include(p => p.User).ToList();
-            return View(posts);
+            ViewBag.CurrentSort = sortOrder;
+            ViewBag.TitleSortParm = String.IsNullOrEmpty(sortOrder) ? "title_desc" : "title_asc";
+            ViewBag.DateSortParm = sortOrder == "Date" ? "date_desc" : "Date";
+
+            if (searchString != null)
+            {
+                page = 1;
+            }
+            else
+            {
+                searchString = currentFilter;
+            }
+
+            ViewBag.CurrentFilter = searchString;
+
+            var posts = db.Posts.Include(p => p.Category).Include(p => p.User);
+
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                posts = posts.Where(p => p.Title.Contains(searchString) || p.Content.Contains(searchString));
+            }
+
+            switch (sortOrder)
+            {
+                case "title_desc":
+                    posts = posts.OrderByDescending(p => p.Title);
+                    break;
+                case "title_asc":
+                    posts = posts.OrderBy(p => p.Title);
+                    break;
+                case "Date":
+                    posts = posts.OrderBy(p => p.DatePosted);
+                    break;
+                case "date_desc":
+                    posts = posts.OrderByDescending(p => p.DatePosted);
+                    break;
+                default:
+                    posts = posts.OrderBy(p => p.Title);
+                    break;
+            }
+
+            int pageSize = 5;
+            int pageNumber = (page ?? 1);
+            return View(posts.ToPagedList(pageNumber, pageSize));
         }
 
         // GET: Post/Details/5

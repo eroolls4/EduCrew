@@ -221,3 +221,7 @@ C:\Users\Eroll Saqipi\Desktop\it-project\gitRepo\EduCrew\obj\Debug\EduCrew.cspro
 C:\Users\Eroll Saqipi\Desktop\it-project\gitRepo\EduCrew\obj\Debug\EduCrew.dll
 C:\Users\Eroll Saqipi\Desktop\it-project\gitRepo\EduCrew\obj\Debug\EduCrew.pdb
 C:\Users\Eroll Saqipi\Desktop\it-project\gitRepo\EduCrew\bin\Fuse.NET.dll
+C:\Users\Eroll Saqipi\Desktop\it-project\gitRepo\EduCrew\bin\PagedList.dll
+C:\Users\Eroll Saqipi\Desktop\it-project\gitRepo\EduCrew\bin\PagedList.Mvc.dll
+C:\Users\Eroll Saqipi\Desktop\it-project\gitRepo\EduCrew\bin\PagedList.xml
+C:\Users\Eroll Saqipi\Desktop\it-project\gitRepo\EduCrew\bin\PagedList.Mvc.xml

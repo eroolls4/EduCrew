@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\gitrepo\\educrew\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\gitrepo\\educrew\\controllers\\sweetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\controllers\\sweetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:controllers\\sweetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -63,7 +63,7 @@
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\gitrepo\\educrew\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -98,7 +98,7 @@
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\gitrepo\\educrew\\views\\admin\\adminpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\views\\admin\\adminpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\admin\\adminpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -110,11 +110,11 @@
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:scripts\\datatables.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\gitrepo\\educrew\\models\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\models\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:models\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\gitrepo\\educrew\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -134,7 +134,7 @@
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\gitrepo\\educrew\\views\\sweet\\alert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\views\\sweet\\alert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\sweet\\alert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -150,11 +150,11 @@
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\gitrepo\\educrew\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|c:\\users\\eroll saqipi\\desktop\\it-project\\gitrepo\\educrew\\scripts\\bootbox.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\scripts\\bootbox.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{20623E0D-917B-4151-A140-C014000C313C}|EduCrew.csproj|solutionrelative:scripts\\bootbox.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
@@ -226,7 +226,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 287,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -234,13 +234,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Posts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Posts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Posts\\Index.cshtml",
+              "RelativeToolTip": "Views\\Posts\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T15:35:04.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PostsController.cs",
               "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Controllers\\PostsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PostsController.cs",
               "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Controllers\\PostsController.cs",
               "RelativeToolTip": "Controllers\\PostsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABFAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAwDkAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T15:28:49.492Z",
               "EditorCaption": ""
@@ -255,8 +268,7 @@
               "RelativeToolTip": "RoleInitializer.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T21:38:23.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T21:38:23.65Z"
             },
             {
               "$type": "Document",
@@ -268,8 +280,7 @@
               "RelativeToolTip": "Global.asax.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T21:37:05.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T21:37:05.329Z"
             },
             {
               "$type": "Document",
@@ -281,21 +292,7 @@
               "RelativeToolTip": "Controllers\\AccountController.cs",
               "ViewState": "AQIAAIcBAAAAAAAAAAAawJoBAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T21:17:18.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Posts\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Posts\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Posts\\Index.cshtml",
-              "RelativeToolTip": "Views\\Posts\\Index.cshtml",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAACEAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T15:35:04.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T21:17:18.159Z"
             },
             {
               "$type": "Document",
@@ -307,12 +304,11 @@
               "RelativeToolTip": "Controllers\\AdminController.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAcwE8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T12:16:18.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T12:16:18.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Models\\Post.cs",
               "RelativeDocumentMoniker": "Models\\Post.cs",
@@ -320,8 +316,7 @@
               "RelativeToolTip": "Models\\Post.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAuwBwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T13:02:34.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T13:02:34.67Z"
             },
             {
               "$type": "Document",
@@ -333,8 +328,7 @@
               "RelativeToolTip": "Controllers\\SweetController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T20:17:21.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T20:17:21.761Z"
             },
             {
               "$type": "Document",
@@ -346,8 +340,7 @@
               "RelativeToolTip": "Controllers\\CategoriesController.cs",
               "ViewState": "AQIAAEIAAAAAAAAAAAAowFkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T13:48:37.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T13:48:37.343Z"
             },
             {
               "$type": "Document",
@@ -359,8 +352,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T22:39:12.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T22:39:12.998Z"
             },
             {
               "$type": "Document",
@@ -372,8 +364,7 @@
               "RelativeToolTip": "Controllers\\BaseController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T22:44:42.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T22:44:42.979Z"
             },
             {
               "$type": "Document",
@@ -385,8 +376,7 @@
               "RelativeToolTip": "Controllers\\ManageController.cs",
               "ViewState": "AQIAAJIBAAAAAAAAAAAuwEUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T22:07:10.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T22:07:10.573Z"
             },
             {
               "$type": "Document",
@@ -398,8 +388,7 @@
               "RelativeToolTip": "App_Start\\Startup.Auth.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAswEIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T20:58:28.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T20:58:28.188Z"
             },
             {
               "$type": "Document",
@@ -411,8 +400,7 @@
               "RelativeToolTip": "App_Start\\FilterConfig.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T20:57:52.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T20:57:52.882Z"
             },
             {
               "$type": "Document",
@@ -424,8 +412,7 @@
               "RelativeToolTip": "App_Start\\IdentityConfig.cs",
               "ViewState": "AQIAAFcAAAAAAAAAAAAawGcAAABnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T13:12:10.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T13:12:10.947Z"
             },
             {
               "$type": "Document",
@@ -437,8 +424,7 @@
               "RelativeToolTip": "Models\\IdentityModels.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T20:58:44.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T20:58:44.578Z"
             },
             {
               "$type": "Document",
@@ -450,8 +436,7 @@
               "RelativeToolTip": "Models\\AccountViewModels.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAAmwDQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T21:02:25.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T21:02:25.257Z"
             },
             {
               "$type": "Document",
@@ -460,8 +445,7 @@
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_EduCrew_20240917105715/True/SqlTable/dbo.AspNetUsers.sql",
               "ToolTip": "dbo.AspNetUsers [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-09-17T21:55:25.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T21:55:25.02Z"
             },
             {
               "$type": "Document",
@@ -473,8 +457,7 @@
               "RelativeToolTip": "Views\\Manage\\Index.cshtml",
               "ViewState": "AQIAAEIAAAAAAAAAAAAAAFMAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T22:00:14.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T22:00:14.213Z"
             },
             {
               "$type": "Document",
@@ -536,7 +519,7 @@
               "RelativeDocumentMoniker": "Views\\Posts\\Details.cshtml",
               "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Posts\\Details.cshtml",
               "RelativeToolTip": "Views\\Posts\\Details.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACgAAAAWAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAABRwCgAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-18T16:13:27.905Z",
               "EditorCaption": ""
@@ -551,8 +534,7 @@
               "RelativeToolTip": "Models\\ManageViewModels.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T21:13:55.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T21:13:55.059Z"
             },
             {
               "$type": "Document",
@@ -562,7 +544,7 @@
               "RelativeDocumentMoniker": "Views\\Admin\\AdminPanel.cshtml",
               "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Admin\\AdminPanel.cshtml",
               "RelativeToolTip": "Views\\Admin\\AdminPanel.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAACFAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAABRwCAAAACFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-18T20:46:22.858Z",
               "EditorCaption": ""
@@ -575,7 +557,7 @@
               "RelativeDocumentMoniker": "Views\\Posts\\Edit.cshtml",
               "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\it-project\\gitRepo\\EduCrew\\Views\\Posts\\Edit.cshtml",
               "RelativeToolTip": "Views\\Posts\\Edit.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-18T20:07:09.431Z",
               "EditorCaption": ""
@@ -590,8 +572,7 @@
               "RelativeToolTip": "Scripts\\dataTables.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAN0FAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-18T17:09:06.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T17:09:06.061Z"
             },
             {
               "$type": "Document",
@@ -603,8 +584,7 @@
               "RelativeToolTip": "Models\\PostDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T20:37:09.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T20:37:09.965Z"
             },
             {
               "$type": "Document",
@@ -616,8 +596,7 @@
               "RelativeToolTip": "App_Start\\RouteConfig.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T13:12:16.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T13:12:16.284Z"
             },
             {
               "$type": "Document",
@@ -629,8 +608,7 @@
               "RelativeToolTip": "Models\\Category.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAkwBMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T13:03:03.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T13:03:03.202Z"
             },
             {
               "$type": "Document",
@@ -642,8 +620,7 @@
               "RelativeToolTip": "Startup.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T21:40:14.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T21:40:14.991Z"
             },
             {
               "$type": "Document",
@@ -655,8 +632,7 @@
               "RelativeToolTip": "App_Start\\BundleConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T13:12:05.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T13:12:05.965Z"
             },
             {
               "$type": "Document",
@@ -668,8 +644,7 @@
               "RelativeToolTip": "Scripts\\bootbox.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-18T18:55:32.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T18:55:32.456Z"
             },
             {
               "$type": "Document",
@@ -707,8 +682,7 @@
               "RelativeToolTip": "Views\\Sweet\\Alert.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAPIAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T20:17:33.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T20:17:33.033Z"
             },
             {
               "$type": "Document",
@@ -720,8 +694,7 @@
               "RelativeToolTip": "App_Start\\WebApiConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T19:15:34.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T19:15:34.133Z"
             },
             {
               "$type": "Document",
@@ -733,8 +706,7 @@
               "RelativeToolTip": "Controllers\\API\\PostAPIController.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAwwCEAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:46:14.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T16:46:14.05Z"
             },
             {
               "$type": "Document",
@@ -902,8 +874,7 @@
               "RelativeToolTip": "Views\\Manage\\SetProfileImage.cshtml",
               "ViewState": "AQIAAAIAAAAAAAAAAAAiwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T22:16:13.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T22:16:13.274Z"
             },
             {
               "$type": "Document",

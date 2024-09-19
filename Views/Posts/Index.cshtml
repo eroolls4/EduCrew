@@ -1,5 +1,6 @@
-﻿@model IEnumerable<EduCrew.Models.Post>
-
+﻿@using PagedList
+@model IPagedList<EduCrew.Models.Post>
+@using PagedList.Mvc;
 @using Microsoft.AspNet.Identity;
 
 <div class="container">
@@ -10,11 +11,34 @@
     </div>
 
     <!-- Search bar -->
-    <div class="row mb-4">
-        <div class="col-md-12">
-            <input type="text" id="searchInput" class="form-control" placeholder="Search posts by title or content">
+    <form asp-action="Index" method="get">
+        <div class="row mb-4">
+            <div class="col-md-6">
+                <input type="text" name="searchString" value="@ViewBag.CurrentFilter" class="form-control" placeholder="Search posts by title or content">
+            </div>
+            <div class="col-md-6">
+                <button type="submit" class="btn btn-default">Search</button>
+                <a href="@Url.Action("Index")" class="btn btn-secondary">Reset</a>
+            </div>
         </div>
-    </div>
+
+        <!-- Sort accordion -->
+        <div class="accordion" id="sortAccordion">
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        Sort Options
+                    </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#sortAccordion">
+                    <div class="accordion-body">
+                        <a href="@Url.Action("Index", new { sortOrder = ViewBag.TitleSortParm, currentFilter = ViewBag.CurrentFilter })" class="btn btn-link">Sort by Title</a>
+                        <a href="@Url.Action("Index", new { sortOrder = ViewBag.DateSortParm, currentFilter = ViewBag.CurrentFilter })" class="btn btn-link">Sort by Date Posted</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
 
     <div id="postList" class="list-group">
         @foreach (var post in Model)
@@ -34,7 +58,9 @@
                         </p>
                     </div>
                     <div class="col-md-2 text-right">
-                        <!-- Action Links (Visible only to Admins) -->
+                    
+                        <a href="@Url.Action("Details", new { id = post.PostId })" class="btn  btn-outline-info">Check Details</a>
+
                         @if (User.IsInRole("Admin"))
                         {
                             <button data-post-id="@post.PostId" class="btn-link js-delete">Delete</button>
@@ -48,6 +74,11 @@
             </div>
         }
     </div>
+
+    <!-- Pagination -->
+    <div class="pager">
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+    </div>
 </div>
 
 @section scripts {
@@ -55,8 +86,6 @@
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
     <script>
-        // Preparing the data for Fuse.js
-
         // Delete post using Ajax and SweetAlert2 confirmation
         $(".js-delete").on("click", function (event) {
             event.stopPropagation();
